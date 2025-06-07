@@ -1,4 +1,4 @@
-[Header](https://github.com/svetSanna/svetSanna/blob/main/assets/Svetlana%20Novakovskaya.gif)
+![Header](https://github.com/svetSanna/svetSanna/blob/main/assets/Svetlana%20Novakovskaya.gif)
 
 About me
 
